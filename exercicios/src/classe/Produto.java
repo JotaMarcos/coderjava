@@ -13,7 +13,6 @@ public class Produto {
 	Produto(String nomeInicial, double precoInicial){
 		nome = nomeInicial;
 		preco = precoInicial;
-		
 	}
 	
 	

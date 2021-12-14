@@ -3,9 +3,9 @@ package classe;
 public class AreaCirc {
 	
 	double raio;
-	final static double PI = 3.14;
+	final static double PI = 3.1415;
 	
-	public AreaCirc(double raioInicial) {
+	AreaCirc(double raioInicial) {
 		raio = raioInicial;
 	}
 	
