@@ -19,4 +19,6 @@
     <fullyQualifiedTypeName name="java.util.jar.JarEntry"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="oo.encapsulamento.casaA.Ana"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>
