@@ -15,11 +15,11 @@ public class Exercicio7 {
 			numero = entrada.nextInt();
 			if (numero >= 0) {
 				somadorDeNumeros += numero;
-				System.out.printf("Soma até o momento: %d\n", somadorDeNumeros);
+				System.out.printf("Somar até o momento: %d\n", somadorDeNumeros);
 			}
 		}
-		System.out.printf("O Total da Soma é: %d\n", somadorDeNumeros);
-		System.out.println("================== Fim da Soma ==================");
+		System.out.printf("O Total da Somar é: %d\n", somadorDeNumeros);
+		System.out.println("================== Fim da Somar ==================");
 		entrada.close();
 	}
 	

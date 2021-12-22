@@ -21,4 +21,10 @@
     <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="oo.encapsulamento.casaA.Ana"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="oo.heranca.desafio.Carro"/>
+    <fullyQualifiedTypeName name="lambdas.Calculo"/>
+    <fullyQualifiedTypeName name="lambdas.Subtrair"/>
+    <fullyQualifiedTypeName name="lambdas.Multiplicar"/>
+    <fullyQualifiedTypeName name="lambdas.Dividir"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
 </qualifiedTypeNameHistroy>
